@@ -10,3 +10,7 @@ This application serves as a lightweight, centralized Group Portal and Member Di
 * **Presentation Tier (UI):** Modular, independent HTML/CSS profile views located within the `/features` directory matching team member credentials.
 * **Logic Tier (Controller):** Driven by `index.php` in the root folder, which acts as a centralized traffic router mapping browser URL queries to separate features securely.
 * **Data Tier (Relational Database):** Backed by a local MariaDB instance running on DietPi. It abstracts persistent records utilizing a single, shared `dp.php` PDO connection layer.
+
+## 3. Link to access the team profile
+
+http://opensourcetku.42web.io/
