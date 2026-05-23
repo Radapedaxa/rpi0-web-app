@@ -1,4 +1,4 @@
-# week 12 Project
+# Project
 Open Source Practice code
 
 # 3-Tier Dynamic Web Application on Raspberry Pi Zero 2W
